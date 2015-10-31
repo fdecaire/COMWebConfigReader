@@ -1,0 +1,5 @@
+c:\users\frank\documents\visual studio 2015\Projects\COMWebConfigReader\COMWebConfigReader\bin\Debug\COMWebConfigReader.dll
+c:\users\frank\documents\visual studio 2015\Projects\COMWebConfigReader\COMWebConfigReader\bin\Debug\COMWebConfigReader.pdb
+c:\users\frank\documents\visual studio 2015\Projects\COMWebConfigReader\COMWebConfigReader\obj\Debug\COMWebConfigReader.dll
+c:\users\frank\documents\visual studio 2015\Projects\COMWebConfigReader\COMWebConfigReader\obj\Debug\COMWebConfigReader.pdb
+C:\Users\Frank\documents\visual studio 2015\Projects\COMWebConfigReader\COMWebConfigReader\bin\Debug\COMWebConfigReader.tlb
